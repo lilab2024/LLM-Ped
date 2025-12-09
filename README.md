@@ -3,8 +3,11 @@ Using Large Language Models to Identify and Explain Risk Factors for Driver Yiel
 
 # Project Overview
 The code includes:
+
 **· Prompt for GPT-4o/GPT-4omini** : including relevant domain knowledge, thinking guidance, few-shot prompting, multimodal prompting
+
 **· Prompt for Deepseek-V3/Deepseek-R1** : including relevant domain knowledge, thinking guidance, few-shot prompting.
+
 **Ablation experiment** : We perform the ablation study to evaluate the effectiveness of each key component of the proposed framework using the Minnesota driver–pedestrian dataset. 
 
 # Datasets
